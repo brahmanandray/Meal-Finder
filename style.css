@@ -1,9 +1,7 @@
 * {
     box-sizing: border-box;
   }
-  /* html {
-     scroll-behavior: smooth; 
-    } */
+  
   body {
     background: black;
     color: white;
@@ -130,13 +128,6 @@
     padding: 5px;
     margin: 0 5px 5px 0;
   }
-  #image{
-  height: 200px; /* or whatever, equal to the image you want 'watermarked' */
-width: 200px; /* as above */
-/* background-image: url(path/to/image/to/be/watermarked.png); */
-background-position: 0 0;
-background-repeat: no-repeat;
-position: relative;
-}
+
 
   
